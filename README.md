@@ -1,4 +1,3 @@
-
 # Boids
 Boids algorithm written in python
 
